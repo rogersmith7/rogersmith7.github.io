@@ -90,12 +90,9 @@ h1{
 }
 h2{
 	color: #3399CC;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 10px;
 	font-family: Georgia, "Times New Roman", serif;
 	font-size: 3em;
-	letter-spacing: 0.25em;
+	letter-spacing: 0.25
 
 
 }
