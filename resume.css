@@ -55,13 +55,7 @@ nav a:link{color: #5C7FA3; transition: color 3s ease-out;}
 nav a:visited{color: #344873;}
 nav a:hover{color: #A52A2A; transition: }
 
-img {
-	border-radius: 60%;
-	height: 180px;
-	width: 180px;
-	padding: 15px 15px 15px 15px;
-	margin: 15px 25px 15px 8px;
-}
+
 
 *{
 	box-sizing: border-box;
