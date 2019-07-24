@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="resume.css" rel="stylesheet">
+<title>Showcase</title>
+<meta charset="utf-8">
+<head>
+
+</head>
+
+<body>
+	<div id="wrapper">
+		<header>
+			<h1>Project</h1>
+		</header>
+
+<nav>
+
+<ul>
+   <li><a href="index.html">Home</a></li>
+   <li><a href="Project1.html">Project 1</a></li>
+   <li><a href="Project2.html">Project 2</a></li>
+   <li><a href="Project2.html">Project 3</a></li>
+   <li><a href="Resume.html">Resume</a></li>
+</ul>
+
+		</nav>
+	<hr>
+
+
+
+
+	<!--<div id="homehero"></div>-->
+	<main>
+
+	</main>
+
+
+	    <footer>
+		2019 Angel Martinez<br>
+		<a href="mailto:angel.r.martinez@asu.edu">armart24@asu.edu</a>
+		</footer>
+
+	</div>
+  </body>
+</html>
